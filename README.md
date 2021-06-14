@@ -1,9 +1,3 @@
-# html-starter
-A starter package for basic HTML projects
+# DRAW Program using Jquery
 
-```sh
-cd /var/www
-git clone https://github.com/stack-x/html-starter.git PROJECT-NAME
-cd PROJECT-NAME
-rm -fR .git
-```
+draw program using jquery
